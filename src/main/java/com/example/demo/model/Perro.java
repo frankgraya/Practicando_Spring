@@ -4,13 +4,12 @@
  */
 package com.example.demo.model;
 
-import lombok.Data;
-
 /**
  *
  * @author franc
  */
 
-public class Persona {
-    String nombre;
+
+public class Perro {
+    
 }
